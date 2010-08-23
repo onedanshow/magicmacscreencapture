@@ -260,10 +260,10 @@ static CVReturn MyRenderCallback(CVDisplayLinkRef displayLink,
 
 #pragma mark ---------- Action Methods ----------
 
-@dynamic xPos;
-@dynamic yPos;
-@dynamic wSize;
-@dynamic hSize;
+//@dynamic xPos;
+//@dynamic yPos;
+//@dynamic wSize;
+//@dynamic hSize;
 
 static bool ignoreResize = false;
 static bool ignoreSet = false;
